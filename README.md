@@ -28,13 +28,13 @@ Decision curve analysis in the training set (a) and validation set (b).
 Calibration curves in the training set (a) and validation set (b)
 <div>
 <p align="center">
-<img src='assets\calibration_KAN.png' align="center" width=800>
+<img src='assets\calibration_kan.png' align="center" width=800>
 </p>
 </div>
 Decision curve analysis in the training set (a) and validation set (b).
 <div>
 <p align="center">
-<img src='assets\dca_KAN.png' align="center" width=800>
+<img src='assets\dca_kan.png' align="center" width=800>
 </p>
 </div>
 
