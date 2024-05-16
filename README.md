@@ -46,7 +46,7 @@ pip
 ```
 Installation via github
 ```
-git clone 
+git clone https://github.com/statsle/B-vitamins-and-postpartum-anemia-risks.git
 ```
 Requirements
 ```
@@ -88,10 +88,5 @@ On the toy dataset, the following metrics were obtained: AUC of 0.985 (95% CI: 0
 
 Perform trajectory analysis using the LCTM algorithm. Obtain data trajectory analysis by invoking the code from LCTM.R.
 
-## References
-
-```
-
-```
 
 ## Acknowledgments
