@@ -1,5 +1,5 @@
-## KAN4PA: Kolmogorov Arnold Networks for Postpartum Anemia
-# B vitamin dynamics during pregnancy and the risk of postpartum anemia
+# KAN4PA: Kolmogorov Arnold Networks for Postpartum Anemia
+## B vitamin dynamics during pregnancy and the risk of postpartum anemia
 
 This is the github repo for the paper "B vitamin dynamics during pregnancy and the risk of postpartum anemia".
 
